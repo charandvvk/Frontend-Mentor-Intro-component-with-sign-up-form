@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out my approach to this front-end coding challenge. You can see my code in action [here](https://lucidreamer421.github.io/Frontend-Mentor-Intro-component-with-sign-up-form/).
+Thanks for checking out my approach to this front-end coding challenge. You can see my code in action [here](https://charandvvk.github.io/Frontend-Mentor-Intro-component-with-sign-up-form/).
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
